@@ -3,7 +3,7 @@
 The primary objective of this project is to analyze Blinkit’s sales, outlet performance, and customer trends. The dashboard provides a unified, interactive view for business stakeholders to track sales KPIs, outlet metrics, product category performance, and customer ratings, enabling data-driven decision-making.
 
 ## Dataset 
-- <a href="https://github.com/Richa-goyal06/Bank-loan-Analysis/blob/main/financial_loan.csv">Dataset</a>
+- <a href="https://github.com/Richa-goyal06/Blinkit-Analysis/blob/main/BlinkIT_Grocery_Data_clean.csv">Dataset</a>
 
 ## Dashboard 1: Summary
 Blinkit operates across various outlet types and locations. To optimize sales and customer satisfaction, businesses need insights into revenue distribution, product demand, outlet size performance, and customer preferences.
